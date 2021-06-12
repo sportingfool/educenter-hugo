@@ -1,7 +1,7 @@
 ---
 title: About Me
 bg_image: ''
-image: "/images/img_20200502_123322-2.jpg"
+image: "/images/profile-resize.jpg"
 description: |-
   Hi!  I'm Andrea, the founder of Account Ways and Andrea Daniel CPA, PLLC.  I hold a Master of Science Degree in Finance from Bentley University, and I have been a Certified Public Accountant in North Carolina since 1999.
 
