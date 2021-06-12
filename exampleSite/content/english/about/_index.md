@@ -1,7 +1,7 @@
 ---
 title: About Me
-bg_image: ''
-image: "/images/profile-resize.jpg"
+bg_image: "/images/profile-resize.jpg"
+image: ''
 description: ''
 
 ---
